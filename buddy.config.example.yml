@@ -1,0 +1,30 @@
+# Buddy settings
+# This file is created when you install Buddy, from the few questions it asks.
+# You can edit any line by hand and run "set me up again" to apply the changes.
+# (This is an EXAMPLE, using a made-up person — a baker, to show it's not just for coders.)
+
+# 1. What you call yourself
+name: Alex
+
+# 2. Who makes the final calls — "solo", or a name if someone signs off your work
+decides: solo
+
+# 3. What you do (your own words). Buddy reads this to pick your roles and work areas below.
+what_you_do: "I run a small bakery and handle our website and Instagram myself."
+
+# Roles Buddy wears for you (it suggested these from 'what_you_do' — edit freely)
+roles: [Builder, Guide, Marketing helper]
+
+# Your work areas — these become your folders (add or remove anytime)
+areas: [web, social, content]
+
+# 4. How Buddy talks to you
+length: brief        # brief  |  detailed
+words: plain         # plain  |  technical
+
+# 5. Your workspace — Buddy's home. Buddy creates and sorts every file/folder inside it itself;
+#    you never organize anything. Always start Buddy in this same folder so it can reach its memory.
+workspace: "C:/Users/alex/buddy-workspace"
+
+# Which app Buddy runs in (v1 supports Claude Code; more later)
+app: claude-code
