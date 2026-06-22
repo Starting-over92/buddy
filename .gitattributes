@@ -1,0 +1,6 @@
+# Buddy is a plain-Markdown system, not a JavaScript project.
+# Make GitHub's language bar reflect that:
+#  - count the Markdown that makes up the actual product
+#  - treat the one small helper script as a vendored helper (excluded from stats)
+*.md linguist-detectable=true
+hooks/*.js linguist-vendored=true
