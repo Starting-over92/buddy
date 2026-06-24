@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/buddy-cover.png" alt="Buddy — the memory that makes your AI smarter the more it remembers, not slower, not costlier" width="860">
+</p>
+
 # 🧠 Buddy
 
 ### The memory that makes your AI **smarter the more it remembers — not slower, not costlier.**
@@ -30,6 +34,14 @@ time it quietly starts **remembering things wrong.**
   non-obvious, hard-won. The brain stays signal, not noise.
 - **👥 It knows your people.** Everyone you work with gets one card — the single source of truth —
   so Buddy never re-asks what it already learned about a client or contact.
+
+<p align="center">
+  <img src="assets/buddy-arch-smarter-not-costlier.png" alt="Smarter the more it remembers, not costlier — Buddy opens only a contents page plus the two or three notes it needs, so cost stays flat as the memory grows" width="820">
+</p>
+
+<p align="center">
+  <img src="assets/buddy-arch-never-wrong.png" alt="Never remembers wrong — when a new fact clashes with a stored one, Buddy keeps both and notes when each applies, or asks you; a true fact is never lost" width="820">
+</p>
 
 ## How it works
 
@@ -71,6 +83,10 @@ A few habits that make Buddy noticeably smarter over time:
 A complete second brain: a five-shelf knowledge library (fixes, how-tos, rules, facts, skills),
 people & client cards, day-to-day memory, and a built-in habit of saving what it learns and
 tidying itself up — all curated with your approval.
+
+<p align="center">
+  <img src="assets/buddy-arch-whats-inside.png" alt="What's inside Buddy — a five-shelf knowledge library, people and client cards, everyday memory, a capture gate that saves only what's worth keeping, and reconcile" width="820">
+</p>
 
 ## License
 
